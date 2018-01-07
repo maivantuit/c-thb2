@@ -1,0 +1,7 @@
+D:\Luu tai lieu\TH C#\MaiVanTu_BaiTapTHLan2\MaiVanTu_BaiTapTHLan2\bin\Debug\MaiVanTu_BaiTapTHLan2.exe.config
+D:\Luu tai lieu\TH C#\MaiVanTu_BaiTapTHLan2\MaiVanTu_BaiTapTHLan2\bin\Debug\MaiVanTu_BaiTapTHLan2.exe
+D:\Luu tai lieu\TH C#\MaiVanTu_BaiTapTHLan2\MaiVanTu_BaiTapTHLan2\bin\Debug\MaiVanTu_BaiTapTHLan2.pdb
+D:\Luu tai lieu\TH C#\MaiVanTu_BaiTapTHLan2\MaiVanTu_BaiTapTHLan2\obj\Debug\MaiVanTu_BaiTapTHLan2.csprojResolveAssemblyReference.cache
+D:\Luu tai lieu\TH C#\MaiVanTu_BaiTapTHLan2\MaiVanTu_BaiTapTHLan2\obj\Debug\MaiVanTu_BaiTapTHLan2.csproj.CoreCompileInputs.cache
+D:\Luu tai lieu\TH C#\MaiVanTu_BaiTapTHLan2\MaiVanTu_BaiTapTHLan2\obj\Debug\MaiVanTu_BaiTapTHLan2.exe
+D:\Luu tai lieu\TH C#\MaiVanTu_BaiTapTHLan2\MaiVanTu_BaiTapTHLan2\obj\Debug\MaiVanTu_BaiTapTHLan2.pdb
